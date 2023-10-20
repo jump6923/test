@@ -35,6 +35,7 @@ public class Main {
         System.out.println("\"SHACKSHACK BURGER 에 오신걸 환영합니다.\"");
         System.out.println("아래 메뉴판을 보시고 메뉴를 골라 입력해주세요.\n");
 
+
         System.out.println("[ SHAKESHACK MENU ]");
         System.out.println("1. " + menu[0].getName() + "|" + menu[0].getDescription());
         System.out.println("2. " + menu[1].getName() + "|" + menu[1].getDescription());
